@@ -1,0 +1,205 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  header{
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: -100px;
+  }
+  .gmail{
+    margin-right: 15px;
+    margin-left: 15px;
+   
+  }
+  
+  
+  .logo{
+    height: 100px;
+    width: 297px;
+    display: block;
+    margin-left: 41.1%;
+    margin-right: auto;
+    margin-top:7.7%
+  }
+  
+  .voice-size{
+    position: relative;
+    height:25px;
+    width: 25px;
+  
+  }
+  #voice{
+    position: relative;
+    margin-left: auto;
+    margin-top: -30px;
+   
+  }
+  #sheets{
+    background-color: rgba(0,0,0,.1);
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+  }
+  .sheets{
+    height:30px;
+    width: 30px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 8px;
+  
+  }
+  
+  #slides{
+    background-color: rgba(0,0,0,.1);
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+  }
+  .slides{
+    height:30px;
+    width: 30px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 8px;
+  }
+  .camera{
+   position: relative;
+    height:30px;
+    width: 30px;
+    margin-left: 69.5%;
+    margin-top:-32px;
+    
+  }
+  .camera-size{
+    position: relative;
+    height:30px;
+    width: 30px;
+  
+  }
+  #drive{
+    background-color: rgba(0,0,0,.1);
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+  }
+  .drive{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 8px;
+  }
+  
+  #search{
+    background-color: transparent;
+    position:relative;
+    font-size: 16px ;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -24%;
+    margin-bottom:0px;
+    width:44.7%;
+    height:48px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  
+  }
+  #m-glass{
+    margin-left: 28%;
+   margin-top: 30px;
+  }
+  
+  #add{
+    background-color: rgba(25, 103,255,.20)
+  ;
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+  }
+  #options{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 38.4%;
+    margin-right: 38.4%;
+    margin-top: 35px;
+    margin-bottom: auto;
+  }
+  
+  .material-symbols-outlined{
+    color: #3C4043;
+    margin-left: 13px;
+    margin-top:12px;
+    margin-bottom: 30%;
+  }
+  .list{
+    
+    display: flex;
+    justify-content: center;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+  }
+  li{
+    list-style: none;
+    display: inline-block;
+  
+  }
+  .li-1{
+    margin-left: -15px;
+  }
+  .li-2{
+    margin-left: 70px;
+  
+  }
+  .li-3{
+    margin-left: 70px;
+  
+  }
+  .li-4{
+    margin-left: 50px;
+  
+  }
+  
+  footer{
+    position: absolute;
+    bottom: 0;
+    right:0;
+    margin-bottom: -45px;
+    display: inline-block;
+    
+  }
+  .star{
+    height:10px;
+    width: 10px;
+    margin-right:8px;
+    background-color: white;
+  }
+  .button{
+    background-color: #1967d2;
+    color:white;
+    border:none;
+    border-radius: 25px;
+    height: 32px;
+    width:  182px;
+    margin-right: 16px;
+    margin-left: -30%;
+    margin-top:-30%;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, .4);
+  }
+  .edit{
+    background-color: rgba(25, 103, 255,.20);
+    flex-direction: row;
+    border:none;
+    border-radius: 50%;
+    height: 25px;
+    width:  25px;
+  }
